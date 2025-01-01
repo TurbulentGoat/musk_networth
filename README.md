@@ -5,7 +5,7 @@
 ## Disclaimer:
 This application is for educational and entertainment purposes only. The data accuracy depends on the source (Forbes) and is subject to change. The calculations are estimations and not financial advice.
 
-I shouldn't have to say this but better safe than sorry I guess...
+I shouldn't have to say this but better safe than sorry I guess...  
 ####DO NOT USE THIS TOOL FOR FINANCIAL DECISIONS!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
