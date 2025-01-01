@@ -2,7 +2,7 @@
 
 <h1>💰 Elon Musk Net Worth Tracker 💰</h1>
 
-##Disclaimer:
+## Disclaimer:
 This application is for educational and entertainment purposes only. The data accuracy depends on the source (Forbes) and is subject to change. The calculations are estimations and not financial advice.
 
 I shouldn't have to say this but better safe than sorry I guess...
