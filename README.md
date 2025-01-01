@@ -3,7 +3,8 @@
 <h1>💰 Elon Musk Net Worth Tracker 💰</h1>
 
 ## Disclaimer:
-This application is for educational and entertainment purposes only. The data accuracy depends on the source (Forbes) and is subject to change. The calculations are estimations and not financial advice.
+This application is for entertainment purposes **only!!**  
+The data accuracy depends on the source (Forbes) and is subject to change. The calculations are estimations and not financial advice.
 
 I shouldn't have to say this but better safe than sorry I guess...  
 #### DO NOT USE THIS TOOL FOR FINANCIAL DECISIONS!!
@@ -54,6 +55,8 @@ python3 musk.py
 #### Contact:
 For any questions or feedback, feel free to reach out to me here by leaving bringing up any issues/requests, or on [Reddit](https://www.reddit.com/user/Turbulent_Goat1988/).
 
+#### Screenshot:
+![image](https://github.com/user-attachments/assets/a0be38cb-8e24-4014-bbff-6138d496a9db)
 
 
 
